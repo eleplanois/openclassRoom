@@ -2,7 +2,7 @@
 * Formation délivrant un titre de DATA SCIENTIST de niveau 7 au registre [RNCP 34545](https://www.francecompetences.fr/recherche/rncp/34545/)
 * 7 Projets pour s'approprier le domaine 
 
-## Data_Scientist_Projet_2 : Analysez des données de systèmes éducatifs
+## Projet_2 : Analysez des données de systèmes éducatifs
 ### Librairies data science
 <ul>
 <li>Maîtriser les opérations fondamentales du langage Python pour la Data Science
@@ -13,7 +13,7 @@
 </li>
 </ul>
 
-## Data_Scientist_Projet_3 : Concevez une application au service de la santé publique
+## Projet_3 : Concevez une application au service de la santé publique
 ### Analyse Exploratoire des Données
 <ul>
 <li> Communiquer ses résultats à l'aide de réprésentations graphiques lisibles et pertinentes
@@ -22,7 +22,7 @@
 <li> Effectuer une analyse statistique univariée
 </ul>
 
-## Data_Scientist_Projet_4 : Anticipez les besoins en consommation électrique de bâtiments
+## Projet_4 : Anticipez les besoins en consommation électrique de bâtiments
 ## Machine Learning
 <ul>
 <li> Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
@@ -31,7 +31,8 @@
 <li> Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
 </ul>
 
-# Data_Scientist_Projet_5 Segmentation de client
+## Projet_5 : Segmentez des clients d'un site e-commerce
+## Segmentation de client
 <ul>
 <li> Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
 <li> Evaluer les performances d'un modèle d'apprentissage non supervisé 
@@ -39,7 +40,8 @@
 <li> Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
 </ul>
 
-# Data_Scientist_Projet_6 Clustering
+## Projet_6 Classifiez automatiquement des biens de consommation
+## Clustering, NLP, CNN Transfer Learning, Opencv
 <ul>
 <li> Mettre en oeuvre des technique de réduction de dimension
 <li> Prétraiter des données image pour obtenir un jeu de données exploitable 
@@ -47,7 +49,8 @@
 <li> Représenter graphiquement des données à grandes dimensions
 </ul>
 
-# Data_Scientist_Projet_7 Scoring
+## Projet_7 : Implémentez un modèle de scoring
+## Scoring, API REST, FLASK, STREAMLIT
 <ul>
 <li> Présenter son travail de modélisation à l'oral
 <li> Rédiger une note méthodologique afin de communiquer sa démarche de modélisation
@@ -55,7 +58,8 @@
 <li> Utiliser un logiciel de version de code pour assurer l’intégration du modèle
 </ul>
 
-# Data_Scientist_Projet_8 Big Data
+## Projet_8 : Déployez un modèle dans le cloud
+## Big Data, SPARK, PYSPARK, AWS
 <ul>
 <li> Paralléliser des opérations de calcul avec Pyspark
 <li> Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
