@@ -1,4 +1,9 @@
-# Data_Scientist_Projet_2 Librairies data science
+# Formation Data Scientist [OPENCLASSROOMS](https://openclassrooms.com/fr/paths/164-data-scientist)
+* Formation délivrant un titre de DATA SCIENTIST de niveau 7 au registre [RNCP 34545](https://www.francecompetences.fr/recherche/rncp/34545/)
+* 7 Projets pour s'approprier le domaine 
+
+## Data_Scientist_Projet_2 : Analysez des données de systèmes éducatifs
+### Librairies data science
 <ul>
 <li>Maîtriser les opérations fondamentales du langage Python pour la Data Science
 <li>Mettre en place un environnement Python
@@ -8,7 +13,8 @@
 </li>
 </ul>
 
-# Data_Scientist_Projet_3 Traitement statistique
+## Data_Scientist_Projet_3 : Concevez une application au service de la santé publique
+### Analyse Exploratoire des Données
 <ul>
 <li> Communiquer ses résultats à l'aide de réprésentations graphiques lisibles et pertinentes
 <li> Effectuer des opérations de nettoyage sur des données structurées
@@ -16,7 +22,8 @@
 <li> Effectuer une analyse statistique univariée
 </ul>
 
-# Data_Scientist_Projet_4 Machine Learning
+## Data_Scientist_Projet_4 : Anticipez les besoins en consommation électrique de bâtiments
+## Machine Learning
 <ul>
 <li> Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
 <li> Mettre en place le modèle d'apprentissage supervisé adapté au problème métier 
